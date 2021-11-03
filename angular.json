@@ -26,6 +26,8 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
+              "src/.well-known/apple-site-association",
+              { "glob": "apple-app-site-association", "input": "src/.well-known/", "output": "/" },
               "src/favicon.ico",
               "src/.well-known",
               "src/assets"
