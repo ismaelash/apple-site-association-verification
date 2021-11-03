@@ -26,9 +26,10 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
+              { "glob": "*", "input": "./src/static/", "output": "." },
               "src/.well-known/apple-site-association",
-              { "glob": "*", "input": "src/static/", "output": "." },
               "src/favicon.ico",
+              "src/.well-known",
               "src/assets"
             ],
             "styles": [
