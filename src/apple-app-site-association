@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "P2V3S283SB.com.domain.appname",
+                "appID": "TEAM_ID.com.domain.app_name",
                 "paths": [
                     "/share/*"
                 ]
