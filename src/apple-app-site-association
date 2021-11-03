@@ -3,7 +3,7 @@
         "apps": [],
         "details": [
             {
-                "appID": "P2V3S283SB.com.mobartapp.mobart",
+                "appID": "P2V3S283SB.com.domain.appname",
                 "paths": [
                     "/share/*"
                 ]
