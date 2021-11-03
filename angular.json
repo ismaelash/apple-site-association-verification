@@ -27,7 +27,7 @@
             "tsConfig": "tsconfig.app.json",
             "assets": [
               "src/apple-app-site-association",
-              "src/.well-known",
+              "src/well-known",
               "src/assets"
             ],
             "styles": [
