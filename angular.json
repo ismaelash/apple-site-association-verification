@@ -29,7 +29,6 @@
               "src/.well-known/apple-site-association",
               { "glob": "apple-app-site-association", "input": "src/.well-known/", "output": "/" },
               "src/favicon.ico",
-              "src/.well-known",
               "src/assets"
             ],
             "styles": [
